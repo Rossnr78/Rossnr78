@@ -8,4 +8,3 @@
 Rossnr78/Rossnr78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, Im interested in creating an epg template then attaching guide data to it. How do I create one. Do I do it in illustrator or photoshop or design with Java drawing? 
